@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_white">#f9f6f2</color>
+    <color name="text_black">#ffffff</color>
+    <color name="score">#c540dd</color>
+    <color name="high_score">#db8836</color>
+    <color name="text_brown">#d6cdc4</color>
+    <color name="header">#00dad7</color>
+    <color name="black">#272727</color>
+    <color name="green_1">#22ba22</color>
+    <color name="background">#5e5e5e</color>
+</resources>
